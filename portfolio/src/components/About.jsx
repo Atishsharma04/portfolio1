@@ -33,7 +33,7 @@ export default function About() {
             <SectionTag>About Me</SectionTag>
             <SectionTitle>Turning Data<br />Into Intelligence</SectionTitle>
             <p style={{ color: T.muted, marginBottom: "1rem", lineHeight: 1.75, fontSize: "0.95rem" }}>
-              I'm a B.Tech Computer Science student (AI & ML) at Himachal Pradesh Technical University, Hamirpur. I'm passionate about building secure, scalable applications and leveraging Python, web technologies, and ML to solve real-world problems.
+              I'm a B.Tech Computer Science student (AI & ML) at JNGEC. I'm passionate about building secure, scalable applications and leveraging Python, web technologies, and ML to solve real-world problems.
             </p>
             <p style={{ color: T.muted, lineHeight: 1.75, fontSize: "0.95rem" }}>
               My interests span Machine Learning, System Design, Network Security, and Peer-to-Peer Systems. I thrive at the intersection of software engineering and AI, bringing strong teamwork, problem-solving, and self-motivation to every project.
