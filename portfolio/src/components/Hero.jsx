@@ -73,7 +73,7 @@ export default function Hero() {
             {/* Badge */}
             <div style={{ display: "inline-flex", alignItems: "center", gap: "0.5rem", fontFamily: "'Space Mono',monospace", fontSize: "0.75rem", color: T.accent, background: "rgba(99,179,237,0.08)", border: "1px solid rgba(99,179,237,0.25)", borderRadius: 100, padding: "0.38rem 1rem", marginBottom: "1.5rem", animation: "fadeUp 0.6s ease both" }}>
               <span style={{ width: 7, height: 7, background: T.accent3, borderRadius: "50%", animation: "blink 2s infinite" }} />
-              B.Tech CSE (AI & ML) · HPTU, Hamirpur
+              B.Tech CSE (AI & ML)
             </div>
 
             {/* Heading */}
@@ -84,7 +84,7 @@ export default function Hero() {
 
             {/* Subtitle */}
             <p style={{ fontFamily: "'Syne',sans-serif", fontSize: "clamp(1rem,2vw,1.35rem)", fontWeight: 600, color: T.muted, marginBottom: "1.1rem", animation: "fadeUp 0.6s 0.2s ease both", animationFillMode: "both" }}>
-              AI / ML · Full Stack · Security Enthusiast
+              AI / ML · Full Stack Developer
             </p>
 
             {/* Description */}
